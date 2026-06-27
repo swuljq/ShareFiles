@@ -12,7 +12,9 @@
 
 ## 📸 软件截图 (Screenshots)
 
-![软件主界面](./screenshots/main_ui.png)
+![界面](images/PixPin_2026-06-27_21-08-59.png)
+![界面](images/PixPin_2026-06-27_21-10-09.png)
+![界面](images/PixPin_2026-06-27_21-10-39.png)
 
 ## 🚀 下载安装 (Installation)
 
